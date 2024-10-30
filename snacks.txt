@@ -1,0 +1,12 @@
+1,Papas,70.0
+2,Gaseosa,25.0
+3,Chocolatina,15.0
+4,Chocorramo,45.0
+5,Trululu,26.0
+6,Agua,35.0
+7,Coke,54.0
+8,Galleta,56.0
+9,Dulce de leche,78.0
+10,Pan,12.0
+11,Panela,23.0
+12,Arroz,36.0
